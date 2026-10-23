@@ -1,0 +1,3 @@
+##APP LINK: https://student-performance-prediction-aetbkygthvachvfnedwgqw.streamlit.app/#student-performance-prediction-system
+##GITHUB: https://github.com/fa24-bed-061-svg/Student-Performance-Prediction/tree/main
+##APP: STUDENT ERFORMANCE PREDICTOR
